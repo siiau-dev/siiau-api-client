@@ -1,6 +1,10 @@
 # SIIAU API Client
 ## _Simple SDK for interacting with SIIAU web service_
 
+> [!IMPORTANT]
+> Este no es un proyecto de siiau-dev, sino que es un fork de [dev-cucei-itrans/siiau-api-client](https://github.com/dev-cucei-itrans/siiau-api-client) de lo que parece ser un proyecto relacionado con SIIAU 2 (aka Leo).
+> Sólo hice este fork en caso que ellos decidan borrar o ocultar su repositorio.
+
 ### Documentación adicional
 [Documentación](https://dev-cucei-itrans.gitbook.io/siiau-api-client)
 
